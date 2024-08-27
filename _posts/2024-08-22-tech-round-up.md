@@ -2,7 +2,8 @@
 ## DARPA Proposes AI powered migration to Rust
 In what is possibly the most trendy move of 2024, DARPA (Defense Davanced Research Projects Agency)
 proposes a solution to memory based vulnerabilities.
-> "DARPA's Wallach thinks that LLMs will almost certainly be part of the solutions."< [src](https://www.darkreading.com/application-security/darpa-aims-to-ditch-c-code-move-to-rust).
+> "DARPA's Wallach thinks that LLMs will almost certainly be part of the solutions." [src](https://www.darkreading.com/application-security/darpa-aims-to-ditch-c-code-move-to-rust).
+
 
 Citing that LLMs make a transition from functioning C code to rust easier than it has ever been.
 They do note that a lack of Rust code has provided some errors in LLMs like Chat GPT and Co-Pilot.
