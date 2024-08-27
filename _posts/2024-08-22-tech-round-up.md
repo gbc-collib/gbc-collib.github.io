@@ -17,7 +17,13 @@ jquery and vanilla js.
 
 
 ## Bun ups their speed
-For the past few years a battle has been warring between the titan of backend languages node.js
-and new runtimes for javascript. Bun has now released v1.1.25 that can reportedly process 1.29 million HTTP requests per second.
+For the past few years a battle has been warring between the titan of backend javascript runtimes, node.js
+a plethora of modern alternatives like bun and deno. Node has provided an easy to use, scalable solution that
+handles concurrency well for years. However, in recent times many developers have been frustrated with
+slow speeds when compared to compiled or especially non garbage collected languages. Typescript a type "safe"
+alternative to javascript which has been defacto industry standard is also not supported by Node.JS without
+a intermediary compiler. Which can often times be complicated to set up. New improvements are being made by Bun
+a node.js alternative as they released v1.1.26.
+Bun has now released v1.1.25 that can reportedly process 1.29 million HTTP requests per second.
 Now your 1 user b2b SAAS will scale evern better. Bun also sports features like native typescript support,
 backwards compatability with node APIs and
