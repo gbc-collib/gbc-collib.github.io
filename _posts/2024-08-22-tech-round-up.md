@@ -44,8 +44,8 @@ for handling pointers in concurrent Rust chat gpt lost it's mind and couldn't ev
 ## End of React?
 A stir was caused on web development communities online(when isn't it) when an article was released proposing a new era of
 javascript may be approaching. Stating companies may begin leaving giants like react behind.
-This is exciting news, many companies that will save a lot of time migrating enterprise website that still ran
-jquery and vanilla js.
+This is exciting news, many companies that will save a lot of time since they were still using server side rendering.
+Still? Already? Who's to say.
 ### What's the alternative?
 This can be seen as new technology like HTMX has generated a lot of intrigue for
 what C#'s MVC Core has been doing for years, server side rendering. The era of the Single Page Application
@@ -61,19 +61,4 @@ even turned these into server only interactions. A server side rendered page onl
 if you make a search a new call is made to the sever which behind the scenes queries the DB, performs the business logic,
 and returns the appropiate HTML for you. In theory faster over slower connections and potentially safer by reducing the code
 ran on the client(I'm sure I'll be proven wrong in a year's time).
-
-
-## Bun ups their speed
-For the past few years a battle has been warring between the titan of backend javascript runtimes, node.js
-a plethora of modern alternatives like bun and deno. Node has provided an easy to use, scalable solution that
-handles concurrency well for years. However, in recent times many developers have been frustrated with
-slow speeds when compared to compiled or especially non garbage collected languages. Typescript a type "safe"
-alternative to javascript which has been defacto industry standard is also not supported by Node.JS without
-a intermediary compiler. Which can often times be complicated to set up. New improvements are being made by Bun
-a node.js alternative as they released v1.1.26.
-Bun has now released v1.1.25 that can reportedly process 1.29 million HTTP requests per second.
-These benchmarks were reported by Bun so I would take them lightly, but if they are true it is over 10x
-the number of Node.JS. In the cloud dominated web development environment a 10x speed up, could easily
-save thousands a month. While alternatives like go-lang or rust may be even faster, it's hard to argue
-with Bun's backwards compatability.
 
