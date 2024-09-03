@@ -60,5 +60,5 @@ The especially astute readers will have noticed what I haven't said yet... Which
 and 99% of my code is human written. With Nvidia not hitting their growth projections it seems the rest of the industry agrees.
 AI is really cool as a advanced auto complete but that's about it. On more complicated tasks I think I'm better
 off debugging with my dog, mind you he's a very bright young man.
-Looking at you (Matt Garman)[https://www.itpro.com/software/development/aws-ceo-thinks-ai-coding-tools-could-herald-the-death-of-the-developer-as-we-know-it-but-theres-light-on-the-horizon-for-worried-devs#:~:text=Development-,AWS%20CEO%20Matt%20Garman%20thinks%20AI%20coding%20tools%20could%20herald,the%20horizon%20for%20worried%20devs]
+Looking at you [Matt Garman](https://www.itpro.com/software/development/aws-ceo-thinks-ai-coding-tools-could-herald-the-death-of-the-developer-as-we-know-it-but-theres-light-on-the-horizon-for-worried-devs#:~:text=Development-,AWS%20CEO%20Matt%20Garman%20thinks%20AI%20coding%20tools%20could%20herald,the%20horizon%20for%20worried%20devs)
 
