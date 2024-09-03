@@ -1,4 +1,3 @@
-# Practical AI Use Cases
 I wanted to cash in on the AI hype train and talk about the current practical use cases for AI.
 Not ones that will work in a couple years when models get better or if you give me 20 million
 in VC funding.
