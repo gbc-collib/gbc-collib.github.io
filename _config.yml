@@ -10,6 +10,7 @@ title:            Collin Stasiak's Blog
 tagline:          'Stay Up to Date'
 description:      'Collin Stasiak is a junior web developer interested in fullstack development. This blog provides a place to stay up to date on new tech trends and technology.'
 url:              "https://gbc-collib/github.io"
+baseurl:          /
 
 author:
   name:           'Collin Stasiak'
